@@ -15,7 +15,8 @@ Create a custom `Near Field Communication` (NFC) with a 2 layer printed circuit 
 
 ## **Printed Circuit Board**
 * *Top Layer*
-<img src="images/NFC%20pcb%20toplayer.png"><br>
+<img src="images/NFC%20pcb%20toplayer.png">
+<br>
 
 * *Bottom Layer*<br>
 <img src="images/NFC%20pcb%20bottomlayer.png">
