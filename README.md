@@ -29,6 +29,9 @@ Create a custom `Near Field Communication` (NFC) with a 2 layer printed circuit 
 ## **References**:
 https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y
 
-## **Author**:
-*   Jesus Minjares
-    *   Master of Science in Computer Engineering
+## **License**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## **Author**
+* [Jesus Minjares](https://github.com/jminjares4)
+  * Master of Science in Computer Engineering
