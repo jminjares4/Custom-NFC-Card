@@ -41,6 +41,9 @@ https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y
 ## **License**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### **Latest Version**
+[![version](https://img.shields.io/badge/release-v2.0-red)](https://github.com/jminjares4/Custom-NFC-Card/releases)
+
 ## Author:
 * [**Jesus Minjares**](https://github.com/jminjares4)<br>
   * Master of Science in Computer Engineering<br>
