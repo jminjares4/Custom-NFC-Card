@@ -29,10 +29,9 @@ Here is the schematic caputre of the nfc card.
 ### **3D Model**
 <img src="video/nfc_v2.gif">
 
-### **NFC Card Demo**
-<img src="video/nfc_v2_demo.gif">
 
-* Testing custom NFC card 
+### **NFC Card Demo**
+<img src="video/nfc_card_testing.gif">
 
 ## **References**:
 https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y
