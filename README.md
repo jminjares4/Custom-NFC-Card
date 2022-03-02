@@ -29,9 +29,8 @@ Here is the schematic caputre of the nfc card.
 ### **3D Model**
 <img src="video/nfc_v2.gif">
 
-
-### **NFC Card**
-<img src="video/nfc_card_testing.gif">
+### **NFC Card Demo**
+<img src="video/nfc_v2_demo.gif">
 
 * Testing custom NFC card 
 
