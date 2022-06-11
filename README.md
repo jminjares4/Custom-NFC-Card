@@ -29,14 +29,13 @@ The `PCB` was developed in: <br>
 
 ## **Schematic**
 Here is the schematic caputre of the nfc card.
-<img src="images/schematic.png" align="center">
+<img src="media/images/schematic.png" align="center">
 
 ## **3D Model**
-<img src="gif/custom_nfc_card.gif">
+<img src="media/gif/custom_nfc_card.gif">
 
 ## **NFC Card Demo**
-<img src="gif/custom_nfc_card_demo.gif">
-
+<img src="media/gif/custom_nfc_card_demo.gif">
 
 ## **License**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
