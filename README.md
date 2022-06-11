@@ -2,11 +2,16 @@
 ## **Objective**
 Create a custom `Near Field Communication` (NFC) with a 2 layer printed circuit board (`PCB`). The board was developed in [*EasyEDA*](https://easyeda.com/).
 
+## **QR Code**
+Inorder to use a QR-code, python script was developed to generate custom
+QR-codes. Here is my source code: [QR-Code Script](https://github.com/jminjares4/QR-Code)
+
 ## **Newest Features**
+- [x] Added new top silk icons
+- [x] Updated QR-code
 - [x] Change SMD components to top layer
 - [x] Rerouted traces with thicker traces
 - [x] Resize copper plate to lower antenna latency  
-
 
 ## **Electronic Design Automation**
 The `PCB` was developed in: <br> 
@@ -15,26 +20,23 @@ The `PCB` was developed in: <br>
 
 ## **List of Components**
 |   Component| Package  | Quantity |
-|:---|:---|:---|
-|NFC chip 1kb         | XQFN-8 | 1|
-| Blue LED            | 0805   | 1 |
-| 220 &#8486; resistor| 0603|1|
-| 220pF capacitor     | 0603 | 1|
-| 18pF capacitor      | 0603 | 1|
+|   :---     |:---      |:---      |
+| *NFC chip 1kb*         | XQFN-8 | 1 |
+| *Blue LED*             | 0805   | 1 |
+| *220 &#8486; resistor* | 0603   | 1 |
+| *220pF capacitor*      | 0603   | 1 |
+| *18pF capacitor*       | 0603   | 1 |
 
 ## **Schematic**
 Here is the schematic caputre of the nfc card.
-<img src="images/NFC%20schematic.png" align="center">
+<img src="images/schematic.png" align="center">
 
-### **3D Model**
-<img src="video/nfc_v2.gif">
+## **3D Model**
+<img src="gif/custom_nfc_card.gif">
 
+## **NFC Card Demo**
+<img src="gif/custom_nfc_card_demo.gif">
 
-### **NFC Card Demo**
-<img src="video/nfc_card_testing.gif">
-
-## **References**:
-https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y
 
 ## **License**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -42,8 +44,12 @@ https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y
 ### **Latest Version**
 [![version](https://img.shields.io/badge/release-v2.0-red)](https://github.com/jminjares4/Custom-NFC-Card/releases)
 
-## Author:
+## **Author:**
 * [**Jesus Minjares**](https://github.com/jminjares4)<br>
-  * Master of Science in Computer Engineering<br>
+  **Master of Science in Computer Engineering**<br>
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=flat)](mailto:jminjares4@miners.utep.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jesus-minjares-157a21195/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/jminjares4)
+
+### **Reference**:
+[Link](https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y)
+
