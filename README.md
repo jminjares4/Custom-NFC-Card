@@ -28,7 +28,7 @@ The `PCB` was developed in: <br>
 | *18pF capacitor*       | 0603   | 1 |
 
 ## **Schematic**
-Here is the schematic caputre of the nfc card.
+Here is the schematic capture of the nfc card.
 <img src="media/images/schematic.png" align="center">
 
 ## **3D Model**
