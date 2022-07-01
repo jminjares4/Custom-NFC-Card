@@ -34,14 +34,14 @@ Here is the schematic caputre of the nfc card.
 ## **3D Model**
 <img src="media/gif/custom_nfc_card.gif">
 
-## **NFC Card Demo**
-<img src="media/gif/custom_nfc_card_demo.gif">
+<!-- ## **NFC Card Demo**
+<img src="media/gif/custom_nfc_card_demo.gif"> -->
 
-## **License**
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## **License and Release**
 
-### **Latest Version**
-[![version](https://img.shields.io/badge/release-v3.0-blue)](https://github.com/jminjares4/Custom-NFC-Card/releases)
+| License | Release |
+| :---    | :---    |
+| [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)|[![version](https://img.shields.io/badge/release-v3.0-blue)](https://github.com/jminjares4/Custom-NFC-Card/releases) |
 
 ## **Author:**
 * [**Jesus Minjares**](https://github.com/jminjares4)<br>
@@ -50,5 +50,5 @@ Here is the schematic caputre of the nfc card.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jesus-minjares-157a21195/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/jminjares4)
 
 ### **Reference**:
-[Link](https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y)
+I made some changes to the design to fit to liking. Here is the the original project: [Original Design](https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y)
 
