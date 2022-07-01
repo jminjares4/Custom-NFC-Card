@@ -50,5 +50,5 @@ Here is the schematic caputre of the nfc card.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jesus-minjares-157a21195/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/jminjares4)
 
 ### **Reference**:
-I made some changes to the design to fit to liking. Here is the the original project: [Original Design](https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y)
+I made some changes to the design to fit to my liking. Here is the the original project: [Original Design](https://www.instructables.com/PCB-Business-Card-With-NFC/#CUPWOS9KAZQP32Y)
 
